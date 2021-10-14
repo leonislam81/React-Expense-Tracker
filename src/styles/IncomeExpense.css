@@ -1,0 +1,34 @@
+.box {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 12px 0;
+}
+.money p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  
+}
+.money span {
+  margin-top: 10px;
+  display: block;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
+.income {
+  border-right: 2px solid greenyellow;
+  padding-right: 60px;
+}
+.income span {
+  color: green;
+}
+.expense {
+  padding-left: 60px;
+}
+.expense span {
+  color: red;
+}
