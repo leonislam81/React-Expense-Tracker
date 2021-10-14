@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/leonislam81/React-Expense-Tracker/static/css/main.a9cf8b52.chunk.css",
+    "main.js": "/leonislam81/React-Expense-Tracker/static/js/main.37301a7d.chunk.js",
+    "main.js.map": "/leonislam81/React-Expense-Tracker/static/js/main.37301a7d.chunk.js.map",
+    "runtime-main.js": "/leonislam81/React-Expense-Tracker/static/js/runtime-main.fa1f2380.js",
+    "runtime-main.js.map": "/leonislam81/React-Expense-Tracker/static/js/runtime-main.fa1f2380.js.map",
+    "static/js/2.c0699957.chunk.js": "/leonislam81/React-Expense-Tracker/static/js/2.c0699957.chunk.js",
+    "static/js/2.c0699957.chunk.js.map": "/leonislam81/React-Expense-Tracker/static/js/2.c0699957.chunk.js.map",
+    "index.html": "/leonislam81/React-Expense-Tracker/index.html",
+    "static/css/main.a9cf8b52.chunk.css.map": "/leonislam81/React-Expense-Tracker/static/css/main.a9cf8b52.chunk.css.map",
+    "static/js/2.c0699957.chunk.js.LICENSE.txt": "/leonislam81/React-Expense-Tracker/static/js/2.c0699957.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1f2380.js",
+    "static/js/2.c0699957.chunk.js",
+    "static/css/main.a9cf8b52.chunk.css",
+    "static/js/main.37301a7d.chunk.js"
+  ]
+}
